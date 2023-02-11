@@ -1,0 +1,5 @@
+public staticvoid main(String[] args)
+{
+Sop("helli java")
+
+}
